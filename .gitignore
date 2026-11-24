@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment
+.env
+.env.*
+
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+*.bak
+*.bak-*
+*.rusak
+*.rusak*
